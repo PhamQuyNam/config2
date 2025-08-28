@@ -1,2 +1,3 @@
-greeting.text=Hello account service
 app.auth.tokenSecret=c2VjcmV0S2V5X2Zvcl9KV1RfU2lnbmluZ19JbnZhbGlkYXRpb24=
+
+greeting.text=Hello account service
